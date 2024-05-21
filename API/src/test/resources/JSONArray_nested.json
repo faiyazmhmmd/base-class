@@ -1,0 +1,23 @@
+{
+"name":"bala",
+"email":"bala@gmail.com",
+"phone No":9242917515,
+"payment":true,
+"empDetail":[
+{
+"firstName":"faiyaz",
+"course":"java",
+"adress":"chennai"
+},
+{
+"firstName":"fara",
+"course":"python",
+"adress":"chennai"
+},
+{
+"firstName":"Mohammed",
+"course":"SQL",
+"adress":"chennai"
+}
+]
+}

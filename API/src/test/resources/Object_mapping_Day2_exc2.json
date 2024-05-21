@@ -1,0 +1,11 @@
+{
+"name":"bala",
+"email":"bala@gmail.com",
+"phoneN0":9566456114,
+"payment":true,
+"address":{
+"streetName":"SriRam Nagar",
+"stateName":"TN",
+"pincode":625017
+}
+}

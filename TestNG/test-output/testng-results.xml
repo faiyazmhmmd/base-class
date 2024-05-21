@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T06:06:11Z" name="Default suite" finished-at="2024-04-24T06:06:26Z" duration-ms="15278">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T06:06:11Z" name="Default test" finished-at="2024-04-24T06:06:26Z" duration-ms="15278">
+      <class name="org.Data_provider.exx2_1">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:org.Data_provider.exx2_1@7a220c9a]" started-at="2024-04-24T06:06:11Z" name="beforeclass" finished-at="2024-04-24T06:06:25Z" duration-ms="13971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="tc1(java.lang.String, java.lang.String)[pri:0, instance:org.Data_provider.exx2_1@7a220c9a]" started-at="2024-04-24T06:06:25Z" name="tc1" data-provider="res" finished-at="2024-04-24T06:06:25Z" duration-ms="713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bala@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bala@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc1(java.lang.String, java.lang.String)[pri:0, instance:org.Data_provider.exx2_1@7a220c9a]" started-at="2024-04-24T06:06:25Z" name="tc1" data-provider="res" finished-at="2024-04-24T06:06:26Z" duration-ms="564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mani@gamil.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mani@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.Data_provider.exx2_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

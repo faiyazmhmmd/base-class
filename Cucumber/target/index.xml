@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.834" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify OMRBranch Login Modules" name="Verify the OMRBranch Login With Valid Data - Example #1.1" time="5.714">
+<system-out><![CDATA[
+Given user is on the OMRBranch page.........................................passed
+When user enter "greensomr@gmail.com" and "ekjdnjdsn@1223"..................passed
+And user click the login button.............................................passed
+Then user should verify the success message after login.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify OMRBranch Login Modules" name="Verify the OMRBranch Login With Valid Data - Example #2.1" time="3.902">
+<system-out><![CDATA[
+Given user is on the OMRBranch page.........................................passed
+When user enter "faiyaz@gmail.com" and "madurai@1334".......................passed
+And user click the login button.............................................passed
+Then user should verify the success message after login.....................passed
+]]></system-out>
+</testcase>
+</testsuite>

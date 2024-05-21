@@ -1,0 +1,54 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 5846,
+    "total_pages": 975,
+    "data": [
+        {
+            "id": 1,
+            "flightName": "AirIndia",
+            "Country": "India",
+            "Destinations": "58",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 2,
+            "flightName": "AirIndia",
+            "Country": "kailasa",
+            "Destinations": "55",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 3,
+            "flightName": "AirSara",
+            "Country": "Oman",
+            "Destinations": "608",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 4,
+            "flightName": "AirIndia",
+            "Country": "India",
+            "Destinations": "20",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id":5,
+            "flightName": "Srilankan AriLines",
+            "Country": "SriLanka",
+            "Destinations": "56",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Sri_Lanka"
+        },
+        {
+            "id": 6,
+            "flightName": "AirIndia.Raj",
+            "Country": "India",
+            "Destinations": "98",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        }
+    ],
+    "support": {
+        "url": "https:\/\/omrbranch.com",
+        "text": "For Joining Automation Course, Please Contact-Velmurugan 9944152058"
+    }
+}

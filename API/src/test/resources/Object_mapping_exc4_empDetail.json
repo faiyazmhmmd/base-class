@@ -1,0 +1,33 @@
+{
+	"name": "bala",
+	"email": "bala@gmail.com",
+	"phoneNo": 9242917515,
+	"payment": true,
+	"empDetail": [
+		{
+			"firstName": "faiyaz",
+			"course": "java",
+			"adress": "chennai"
+		},
+		{
+			"firstName": "fara",
+			"course": "python",
+			"adress": "Madurai"
+		},
+		{
+			"firstName": "ram",
+			"course": "SQL",
+			"adress": "Madurai"
+		},
+		{
+			"firstName": "sam",
+			"course": "plsq",
+			"adress": "puna"
+		},
+		{
+			"firstName": "Mohammed",
+			"course": "manual testing",
+			"adress": "mumbay"
+		}
+	]
+}
